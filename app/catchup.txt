@@ -1,0 +1,24 @@
+current problem - 
+MAJOR - message reciever of background page throws error because popup is closed
+minor - add the random website to manifest cus it throws error
+
+Youtube Api Documentation (Awesome examples at the end)
+https://developers.google.com/youtube/iframe_api_reference#Examples
+
+
+
+Chrome Tabs Documentation - just put chrome.tabs.querry("tab type",{
+    parameter - idk search docs its GOOD
+})
+https://developer.chrome.com/docs/extensions/reference/tabs/
+
+Example for how to use tab's attributes with API, not exactly solution but we just need to 
+pass different prams
+https://stackoverflow.com/questions/7303452/how-to-get-current-tabid-from-background-page
+
+another even simpler examples
+https://stackoverflow.com/questions/50469220/get-urls-opened-in-all-tabs-using-chrome-tabs-api
+
+
+spotify play pause Remotely docs, MAYBE integrate it to player
+https://developer.spotify.com/console/put-pause/
